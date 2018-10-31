@@ -1,4 +1,5 @@
 ##Data Set Characteristics
+
 1. **No of Examples**: 178
 2. **No of Attributes**: 13 numeric, predictive attributes and class
 3. **List of Attributes**: 
