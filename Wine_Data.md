@@ -16,6 +16,6 @@
 	- Proline
 4. **No of Classes**: 3 classes *(0,1,2)*
 5. **Class Distribution**: 
-		- *Class 0* -> 59
-		- *Class 1* -> 71
-		- *Class 2* -> 48
+	- *Class 0* -> 59
+	- *Class 1* -> 71
+	- *Class 2* -> 48
